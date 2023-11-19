@@ -1,0 +1,2 @@
+# ObservarDOM
+Função observarElementosNoDOM(
